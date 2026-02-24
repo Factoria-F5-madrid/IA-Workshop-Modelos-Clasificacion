@@ -138,12 +138,11 @@ pip install missingno
 
 ### 1. **Aprendizaje Secuencial** (Recomendado)
 ```
-1. ejemplo_knn.ipynb          # Comenzar con KNN (más intuitivo)
-2. ejemplo_regresion_logistica.ipynb  # Continuar con regresión logística
-3. ejemplo_SVM.ipynb          # Avanzar a SVM
-4. ejemplo_arbol_decision.ipynb      # Finalizar con árboles de decisión
-5. ejemplo_evaluacion_algoritmos_clasificacion.ipynb  # Aprender evaluación
-6. Pokemon_Legendary.ipynb    # Proyecto integrador
+- Regresión Logística - Rama 1
+- Árboles de Decisión - Rama 2
+- Support Vector Machine (SVM) - Rama 3
+- K-Nearest Neighbors (KNN) - Rama 4
+- Métricas de evaluación - Rama 5
 ```
 
 ### 2. **Aprendizaje por Algoritmo**
